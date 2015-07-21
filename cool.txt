@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<<<<<<< HEAD
 ﻿I‘m Annguowenhua!
 This is the first modified.
@@ -6,3 +7,8 @@ I‘m Annguohua!
 This is the secono. 
 
 >>>>>>> 135352494803fcfabcefb3670d8e2f9a1cf25ad9
+=======
+I‘m Annguowenhua!
+    
+hi
+>>>>>>> dev
