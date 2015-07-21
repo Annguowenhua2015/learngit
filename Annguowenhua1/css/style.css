@@ -1,0 +1,73 @@
+.section Annguowenhua2015{
+    margin:0px;
+    padding:0px;
+    
+    
+}
+
+.Annguowenhua-head{
+    width:560px;
+    height:600px;
+    overflow:hidden;
+    position:relative;
+    margin-left:-55px;
+    margin-bottom:0px;
+}
+.Annguowenhua-head img{
+    width:620px;
+    height:620px;
+}
+
+span{
+    font-size:35px;
+    color:solid dimgrey;
+    font-family: "Microsoft Yahei";
+      
+}
+.Annguowenhua-basic{
+   
+    display:inline;
+    position:absolute;
+    margin-left:600px;
+    margin-top:-500px;
+    vertical-align:baseline;
+   
+}
+.Annguowenhua-tec{
+    margin-top:40px;
+    width:300px;}
+
+.Annguowenhua-tec li{
+    line-height:35px;
+    
+}
+.Annguowenhua-tec lable{
+    display:inline-block;
+    width:100px;
+    text-align:left;
+    float:left;
+}
+
+.Annguowenhua-tec li{
+    line-height:30px;
+    font-size:30px;
+}
+.Annguowenhua-tec ul,.Annguowenhua li{
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+.Annguowenhua-tec ul li span{
+    display:block;
+    height:30px;
+    float:left;
+    margin-left:0px;
+    background-color:#ffd13b;
+}
+
+.Annguowenhua-tec ul li{clear:both}
+
+.s1{width:90%;}
+.s2{width:80%;}
+.s3{width:70%;}
+.s4{width:100%;}
